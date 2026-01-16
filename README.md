@@ -1,3 +1,3 @@
-- Nom:
-- Prénom:
+- Nom: Théo
+- Prénom: Philbert
 - URL vercel: 
